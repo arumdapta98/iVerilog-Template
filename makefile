@@ -5,7 +5,7 @@ dir_tb  = tb
 dir_syn = syn
 
 # define top level module will be tested here!
-top_level = addsub
+top_level = alu
 
 top_level_tb = $(top_level)_tb
 simulation_tb = $(dir_sim)/$(top_level_tb)
