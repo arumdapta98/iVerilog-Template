@@ -1,4 +1,4 @@
-module addsub (
+module alu (
   input iCLK,
   input iOPCODE,	              // 0: ADD, 1: SUB
 	input [7:0] iDATAIN1,         // input datain1
